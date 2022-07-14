@@ -1,0 +1,15 @@
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\Interfaces\bin\Debug\net6.0\Interfaces.exe
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\Interfaces\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\Interfaces\bin\Debug\net6.0\Interfaces.dll
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\Interfaces\obj\Debug\net6.0\Interfaces.dll
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\Interfaces\obj\Debug\net6.0\refint\Interfaces.dll
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll

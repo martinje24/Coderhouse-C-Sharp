@@ -1,0 +1,15 @@
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\EjmeploDeClase\bin\Debug\net6.0\EjmeploDeClase.exe
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\EjmeploDeClase\bin\Debug\net6.0\EjmeploDeClase.deps.json
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\EjmeploDeClase\bin\Debug\net6.0\EjmeploDeClase.runtimeconfig.json
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\EjmeploDeClase\bin\Debug\net6.0\EjmeploDeClase.dll
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\EjmeploDeClase\bin\Debug\net6.0\EjmeploDeClase.pdb
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\EjmeploDeClase\obj\Debug\net6.0\EjmeploDeClase.csproj.AssemblyReference.cache
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\EjmeploDeClase\obj\Debug\net6.0\EjmeploDeClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\EjmeploDeClase\obj\Debug\net6.0\EjmeploDeClase.AssemblyInfoInputs.cache
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\EjmeploDeClase\obj\Debug\net6.0\EjmeploDeClase.AssemblyInfo.cs
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\EjmeploDeClase\obj\Debug\net6.0\EjmeploDeClase.csproj.CoreCompileInputs.cache
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\EjmeploDeClase\obj\Debug\net6.0\EjmeploDeClase.dll
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\EjmeploDeClase\obj\Debug\net6.0\refint\EjmeploDeClase.dll
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\EjmeploDeClase\obj\Debug\net6.0\EjmeploDeClase.pdb
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\EjmeploDeClase\obj\Debug\net6.0\EjmeploDeClase.genruntimeconfig.cache
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\EjmeploDeClase\obj\Debug\net6.0\ref\EjmeploDeClase.dll

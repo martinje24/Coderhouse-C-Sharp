@@ -1,0 +1,15 @@
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\AplicacionDeVenta\bin\Debug\net6.0\AplicacionDeVenta.exe
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\AplicacionDeVenta\bin\Debug\net6.0\AplicacionDeVenta.deps.json
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\AplicacionDeVenta\bin\Debug\net6.0\AplicacionDeVenta.runtimeconfig.json
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\AplicacionDeVenta\bin\Debug\net6.0\AplicacionDeVenta.dll
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\AplicacionDeVenta\bin\Debug\net6.0\AplicacionDeVenta.pdb
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\AplicacionDeVenta\obj\Debug\net6.0\AplicacionDeVenta.csproj.AssemblyReference.cache
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\AplicacionDeVenta\obj\Debug\net6.0\AplicacionDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\AplicacionDeVenta\obj\Debug\net6.0\AplicacionDeVenta.AssemblyInfoInputs.cache
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\AplicacionDeVenta\obj\Debug\net6.0\AplicacionDeVenta.AssemblyInfo.cs
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\AplicacionDeVenta\obj\Debug\net6.0\AplicacionDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\AplicacionDeVenta\obj\Debug\net6.0\AplicacionDeVenta.dll
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\AplicacionDeVenta\obj\Debug\net6.0\refint\AplicacionDeVenta.dll
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\AplicacionDeVenta\obj\Debug\net6.0\AplicacionDeVenta.pdb
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\AplicacionDeVenta\obj\Debug\net6.0\AplicacionDeVenta.genruntimeconfig.cache
+C:\Users\MARTINJE\OneDrive - Aspen Technology, Inc\Documents\Aspen JIMR\Learning Path\Coder House\C#\AplicacionDeVenta\obj\Debug\net6.0\ref\AplicacionDeVenta.dll
