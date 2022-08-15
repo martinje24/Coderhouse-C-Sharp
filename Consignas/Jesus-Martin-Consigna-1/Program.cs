@@ -5,7 +5,7 @@
         static void Main(string[] args) //Método público del compilador que no devuelve nada y no se necesita instanciar
         {
             Usuario usuario = new Usuario(1, "Patrick", "Hernández", "patrick.her@coderhouse.com", "Holiwis");
-            
+            //Producto producto = (Producto)usuario;
             
         }
     }
