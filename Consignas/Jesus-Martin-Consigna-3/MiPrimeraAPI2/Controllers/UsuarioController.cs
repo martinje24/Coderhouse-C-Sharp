@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MiPrimeraAPI2.Controllers.DTOS;
 using MiPrimeraAPI2.Model;
-using MiPrimeraAPI2.Repository;
-//Debido a que UsuarioHandler está en la carpeta Repository
+using MiPrimeraAPI2.Repository;//Debido a que UsuarioHandler está en la carpeta Repository
 //Hay que hacer un Handler por cada tabla
 
 namespace MiPrimeraAPI2.Controllers
@@ -32,7 +31,7 @@ namespace MiPrimeraAPI2.Controllers
                 throwReponse.Add("value","false");
                 //return false; //if bool
             }
-            else 
+            else
             {
                 throwReponse.Add("error", "User finded");
                 throwReponse.Add("userName", usuario.Nombre);
@@ -44,22 +43,52 @@ namespace MiPrimeraAPI2.Controllers
         }
 
         [HttpDelete]
-        public void EliminarUsuario([FromBody] int id)
+        public bool EliminarUsuario([FromBody] int id)
         {
-
+            try
+            {
+                return UsuarioHandler.EliminarUsuario(id);
+                Console.WriteLine("User with Id: "+id.ToString()+" successfully deleted!");
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                return false;
+            }
         }
 
         [HttpPut]
-        public void ModificarUsuario([FromBody] PutUsuario usuario)
+        public bool ModificarUsuario([FromBody] PutUsuario usuario)
         {
-
+            return UsuarioHandler.ModificarNombreDeUsuario(new Usuario
+            {
+                Id = usuario.Id,
+                Nombre = usuario.Nombre,
+                Apellido=usuario.Apellido
+            });
         }
 
         [HttpPost]
-        public void CrearUsuario([FromBody] PostUsuario usuario)
+        public bool CrearUsuario([FromBody] PostUsuario usuario)
         {
-            
-            Console.WriteLine(DateTime.Now.ToString()+usuario.Nombre.ToString());
+                       
+            try
+            {
+                return UsuarioHandler.CrearUsuario(new Usuario
+                {
+                    Apellido = usuario.Apellido,
+                    Contraseña = usuario.Contraseña,
+                    Mail = usuario.Mail,
+                    Nombre = usuario.Nombre,
+                    NombreUsuario = usuario.NombreUsuario
+                });
+                Console.WriteLine(DateTime.Now + " [User created]: " + usuario.NombreUsuario);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                return false;
+            }
         }
     }
 }
